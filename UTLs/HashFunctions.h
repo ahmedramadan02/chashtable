@@ -1,0 +1,9 @@
+#ifndef UTLS_HASHFUNCTIONS_H_
+#define UTLS_HASHFUNCTIONS_H_
+
+#define QUADRATIC_PROBING
+#define OPEN_ADDRESSING
+
+PUBLIC uint16_t GetHash(uint16_t, size_t);
+
+#endif /* UTLS_HASHFUNCTIONS_H_ */

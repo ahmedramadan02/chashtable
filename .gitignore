@@ -1,3 +1,11 @@
+# bin files
 *.o
 *.exe
 *.a
+
+
+# project specific files (for eclipse)
+.cproject
+.project
+.settings
+.settings/*
